@@ -68,7 +68,7 @@ La región de Tabasco enfrenta regularmente desafíos relacionados con desastres
 - Sitio Web:
 
 # 10. Modelo de negocio
-
+![Modelo de Negocio Canvas](modeloDeNegocio.png)
 
 
 # 11. Metodología de software utilizada
