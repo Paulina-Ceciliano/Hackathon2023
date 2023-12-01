@@ -1,0 +1,45 @@
+/* Estilos.css */
+
+/* Resetear márgenes y padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F2E9E2; /* Fondo */
+    color: #0F3327; /* Color de texto */
+    padding: 20px; /* Espaciado interior */
+}
+
+/* Estilos para el contenedor de los audios */
+.contenedor-audios {
+    max-width: 600px; /* Ancho máximo del contenedor */
+    margin: 0 auto; /* Centrar el contenedor en la página */
+}
+
+/* Estilos para el encabezado h1 */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #C97D59; /* Color del encabezado */
+}
+
+/* Estilos para los párrafos */
+p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Estilos para los reproductores de audio dentro del contenedor */
+.reproductores {
+    text-align: center; /* Centrar los reproductores de audio */
+}
+
+/* Estilos para los reproductores de audio */
+audio {
+    width: 100%;
+    margin-bottom: 20px;
+}

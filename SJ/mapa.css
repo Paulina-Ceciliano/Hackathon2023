@@ -1,0 +1,44 @@
+body {
+    background-color: #F5F5F5;
+    display: flex;
+    place-content: center center;
+}
+.container {
+    width: 50%;
+    position: absolute;
+}
+.container path {
+    fill: #88A4BC;
+    stroke: #F5F5F5;
+    stroke-width: 2px;
+}
+.container :hover {
+    fill: #3C72A0
+}
+#stars {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #stars2 {
+    position: absolute; 
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #stars3 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);  
+  }
+  
+  #title {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
